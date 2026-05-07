@@ -90,4 +90,4 @@ src/
 
 ## Built by
 
-**[Your Name]** — AI Engineer Intern Assessment Submission
+**[Zermine Wajid]** — AI Engineer Intern Assessment Submission
