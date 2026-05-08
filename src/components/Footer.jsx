@@ -2,7 +2,7 @@ import { ExternalLink, Code2 } from 'lucide-react';
 
 export default function Footer() {
   return (
-    <footer className="mt-16 pb-8 px-4">
+    <footer className="mt-16 pb-8 px-4 relative z-20"> {/* Added z-20 to ensure it's on top */}
       <div className="max-w-4xl mx-auto">
         <div className="h-px bg-gradient-to-r from-transparent via-white/10 to-transparent mb-8" />
 
@@ -28,7 +28,7 @@ export default function Footer() {
 
             <div className="flex items-center gap-3">
               <a
-                href="https://www.linkedin.com/school/pmaccelerator/posts/?feedView=alr"
+                href="https://www.linkedin.com/school/pmaccelerator/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 glass rounded-xl px-3 py-2 text-white/40 hover:text-blue-300 hover:bg-blue-400/10 transition-all text-xs font-body"
@@ -37,7 +37,7 @@ export default function Footer() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/zerminewajid"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 glass rounded-xl px-3 py-2 text-white/40 hover:text-white/70 hover:bg-white/10 transition-all text-xs font-body"
