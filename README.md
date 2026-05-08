@@ -7,16 +7,16 @@
 
 ## Features
 
-- 🔍 **Smart Search** — city names, ZIP codes, GPS coordinates (lat,lon), or landmarks
-- 📍 **Geolocation** — one-click weather for your current location
-- 🌡️ **Current Weather** — temperature, feels-like, humidity, wind, visibility, pressure
-- 📅 **5-Day Forecast** — daily high/low, precipitation probability, condition icons
-- 🌅 **Sun Schedule** — sunrise & sunset times
-- 🎒 **Packing Tips** — AI-style recommendations based on conditions
-- 🔄 **°C / °F Toggle** — switch units without a new API call
-- 🕐 **Recent Searches** — last 5 searches saved locally
-- ❌ **Error Handling** — graceful messages for every failure case
-- 📱 **Fully Responsive** — desktop, tablet, and mobile
+- **Smart Search** — city names, ZIP codes, GPS coordinates (lat,lon), or landmarks
+- **Geolocation** — one-click weather for your current location
+- **Current Weather** — temperature, feels-like, humidity, wind, visibility, pressure
+- **5-Day Forecast** — daily high/low, precipitation probability, condition icons
+- **Sun Schedule** — sunrise & sunset times
+- **Packing Tips** — AI-style recommendations based on conditions
+- **°C / °F Toggle** — switch units without a new API call
+- **Recent Searches** — last 5 searches saved locally
+- **Error Handling** — graceful messages for every failure case
+- **Fully Responsive** — desktop, tablet, and mobile
 
 ## Tech Stack
 
