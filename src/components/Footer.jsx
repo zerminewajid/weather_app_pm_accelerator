@@ -28,7 +28,7 @@ export default function Footer() {
 
             <div className="flex items-center gap-3">
               <a
-                href="https://www.linkedin.com/school/pmaccelerator/"
+                href="https://www.linkedin.com/school/pmaccelerator/posts/?feedView=all"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 glass rounded-xl px-3 py-2 text-white/40 hover:text-blue-300 hover:bg-blue-400/10 transition-all text-xs font-body"
@@ -37,7 +37,7 @@ export default function Footer() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com/zerminewajid"
+                href="https://github.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 glass rounded-xl px-3 py-2 text-white/40 hover:text-white/70 hover:bg-white/10 transition-all text-xs font-body"
