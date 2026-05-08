@@ -1,0 +1,43 @@
+1. RUNTIME ENVIRONMENT
+
+* Node.js: >= 18.0.0 (LTS recommended)
+* npm: >= 9.0.0
+* Check versions: node -v && npm -v
+
+2. EXTERNAL API (OPENWEATHERMAP)
+
+* Purpose: Weather data & Geocoding
+* Cost: Free tier (1,000 calls/day)
+* Setup: Sign up at openweathermap.org and add your key to .env
+* Key Name: VITE_WEATHER_API_KEY
+
+3. PRODUCTION DEPENDENCIES
+
+* react ^19.2.5 (UI framework)
+* react-dom ^19.2.5 (Browser rendering)
+* lucide-react ^1.14.0 (Icons)
+
+4. DEVELOPMENT DEPENDENCIES
+
+* vite ^8.0.10 (Build tool)
+* tailwindcss ^3.4.19 (CSS framework)
+* postcss ^8.5.14 & autoprefixer ^10.5.0
+* eslint ^10.2.1 (Linter)
+
+5. INSTALLATION & DEPLOYMENT
+# Install dependencies
+npm install
+
+# Setup environment variables
+cp .env.example .env
+# Edit .env and paste your VITE_WEATHER_API_KEY
+
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+
+6. BROWSER SUPPORT
+* Chrome / Firefox / Edge / Safari (2021+ versions)
+* Support required for: fetch, geolocation, backdrop-filter, localStorage.
