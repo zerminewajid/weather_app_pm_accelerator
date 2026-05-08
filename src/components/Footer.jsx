@@ -15,7 +15,7 @@ export default function Footer() {
                 <span className="glass rounded-full px-2 py-0.5 text-xs font-mono text-blue-300 border border-blue-400/20">v1.0</span>
               </div>
               <p className="text-white/40 text-sm font-body">
-                Built by <span className="text-white/70 font-semibold">Your Name</span> for PM Accelerator
+                Built by <span className="text-white/70 font-semibold">Zermine Wajid</span> for PM Accelerator
               </p>
             </div>
 
@@ -28,7 +28,7 @@ export default function Footer() {
 
             <div className="flex items-center gap-3">
               <a
-                href="https://www.linkedin.com/in/zermine-wajid-a206b01b9/"
+                href="https://www.linkedin.com/school/pmaccelerator/posts/?feedView=alr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 glass rounded-xl px-3 py-2 text-white/40 hover:text-blue-300 hover:bg-blue-400/10 transition-all text-xs font-body"
@@ -37,7 +37,7 @@ export default function Footer() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com/zerminewajid"
+                href="https://github.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 glass rounded-xl px-3 py-2 text-white/40 hover:text-white/70 hover:bg-white/10 transition-all text-xs font-body"
